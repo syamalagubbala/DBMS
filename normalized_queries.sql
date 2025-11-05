@@ -99,3 +99,5 @@ GROUP BY s.StudentName;
 
 SELECT c.CourseName, c.credits FROM Courses c WHERE
 c.credits > 3;
+
+
